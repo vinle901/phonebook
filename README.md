@@ -37,7 +37,7 @@
 
 ```bash
 git clone git@github.com:vinle901/phonebook.git
-cd phonebook/backend
+cd phonebook
 ```
 
 ### 2. Set up environment variables
